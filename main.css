@@ -4,5 +4,9 @@ body{
 
 .card-group {
     display: flex;
-    gap: 30px;
+    justify-content: space-around;
+}
+
+.card-text {
+    font-size: 15px;
 }
