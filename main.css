@@ -5,8 +5,13 @@ body{
 .card-group {
     display: flex;
     justify-content: space-around;
+    color: olive;
 }
 
 .card-text {
     font-size: 15px;
+}
+
+.list-group-item {
+    font-size: 14px;
 }
